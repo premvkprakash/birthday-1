@@ -1083,12 +1083,12 @@ audio {
 	width: 100px;
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 75px 155px;
+	background-size: 100px 183px;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 40px;
+	font-size: 50px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
